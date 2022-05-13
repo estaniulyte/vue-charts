@@ -20,5 +20,6 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+CharJS Documentation:
+- https://vue-chart-3.netlify.app/guide/usage/
+- https://www.chartjs.org/docs/latest/
