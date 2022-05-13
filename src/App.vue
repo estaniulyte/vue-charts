@@ -1,18 +1,17 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
   <DoughnutChart />
+  <LineChart />
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
 import DoughnutChart from './components/DoughnutChart.vue'
+import LineChart from './components/LineChart.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
     DoughnutChart,
+    LineChart
   }
 }
 </script>
